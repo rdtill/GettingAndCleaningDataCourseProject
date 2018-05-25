@@ -1,5 +1,8 @@
 tidyDF Codebook
 
+Description:
+	The run_analysis.R script gathers and cleans the data from the below zip file. It then outputs a data frame called tidyDF.txt.
+	
 1. Subject:
 	Integers 1-30. Each number represents the unique subject that the data was gathered for.
 
